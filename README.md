@@ -1,3 +1,12 @@
 # Palashishtebest.github.io
-print = "im the best"
-print = "my name is palash"  
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello World!</title>
+</head>
+<body>
+  <h1>Hello, GitHub Pages!</h1>
+  <p>This is a real website!</p>
+</body>
+</html>
+  
