@@ -67,7 +67,7 @@
     <ul>
       <li><a href="https://github.com/Palashishtebest" target="_blank">GitHub</a></li>
       <li><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">LinkedIn</a></li>
-      <li><a href="mailto:your.email@example.com">Email Me</a></li>
+      <li><a href="palash.vyasca@gmail.com">Email Me</a></li>
     </ul>
   </div>
 
