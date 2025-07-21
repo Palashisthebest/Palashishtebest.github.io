@@ -44,7 +44,7 @@
     <ul>
       <li><strong>Stopwatch App:</strong> Built a stopwatch at a hackathon using JavaScript.</li>
       <li><strong>Robotics Team Website:</strong> Designed and developed my team’s official site.</li>
-      <li><strong>Debate Timer:</strong> A custom timer tool for competitive debate rounds.</li>
+      <li><strong>Internships:</strong> Some of the many internships I have done.</li>
     </ul>
   </div>
 
